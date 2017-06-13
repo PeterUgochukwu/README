@@ -1,2 +1,2 @@
 # README
-Contains my projects on C, C++, and Java
+Contains my projects on C, C++, and Java. 
